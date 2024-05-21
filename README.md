@@ -24,6 +24,20 @@ TASK 1
 1. Число новых пользователей.
 2. Число новых курьеров.
 3. Общее число пользователей на текущий день.
-4. Общее число курьеров на текущий день. \
+4. Общее число курьеров на текущий день.
+Графики \
 https://drive.google.com/file/d/1-TEfXswyQMHCCPdt-IjnxxhYR81-4vFC/view?usp=drive_link \
 https://drive.google.com/file/d/1zqh4VoksaY9u2UdhMKDTx9nLLe75isOv/view?usp=drive_link \
+
+TASK 2
+Для каждого дня, рассчитаем следующие показатели:
+
+1. Прирост числа новых пользователей.
+2. Прирост числа новых курьеров.
+3. Прирост общего числа пользователей.
+4. Прирост общего числа курьеров.
+Графики
+![image](https://github.com/TODUR8/SQL/assets/156222635/55a6b308-4ff3-4435-ad5e-bd3ceea4c32a)
+
+https://drive.google.com/file/d/1hOgQ1s5nU43nMg6QYDMby6uR14x5ch0f/view?usp=drive_link
+https://drive.google.com/file/d/1Jgj_UyrEFXaKgx3A6eecLDoWj2DUkil-/view?usp=drive_link
