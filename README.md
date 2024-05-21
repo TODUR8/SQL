@@ -24,6 +24,6 @@ TASK 1
 1. Число новых пользователей.
 2. Число новых курьеров.
 3. Общее число пользователей на текущий день.
-4. Общее число курьеров на текущий день.
-https://drive.google.com/file/d/1-TEfXswyQMHCCPdt-IjnxxhYR81-4vFC/view?usp=drive_link
-https://drive.google.com/file/d/1zqh4VoksaY9u2UdhMKDTx9nLLe75isOv/view?usp=drive_link
+4. Общее число курьеров на текущий день. \
+https://drive.google.com/file/d/1-TEfXswyQMHCCPdt-IjnxxhYR81-4vFC/view?usp=drive_link \
+https://drive.google.com/file/d/1zqh4VoksaY9u2UdhMKDTx9nLLe75isOv/view?usp=drive_link \
