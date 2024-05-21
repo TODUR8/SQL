@@ -26,6 +26,8 @@ TASK 1
 3. Общее число пользователей на текущий день.
 4. Общее число курьеров на текущий день.
 Графики \
+![1_1 Динамика новых пользователей и курьеров](https://github.com/TODUR8/SQL/assets/156222635/e63d5f1e-1945-4fb0-bcba-f744a62acae3)
+
 https://drive.google.com/file/d/1-TEfXswyQMHCCPdt-IjnxxhYR81-4vFC/view?usp=drive_link \
 https://drive.google.com/file/d/1zqh4VoksaY9u2UdhMKDTx9nLLe75isOv/view?usp=drive_link \
 
